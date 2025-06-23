@@ -1,0 +1,358 @@
+[
+  {
+    "rezeptname": "Frühstück",
+    "portionen": 10,
+    "zutaten": [
+      {"zutat": "Apfel", "menge": 3, "einheit": "Stück", "detail": null},
+      {"zutat": "Bananen", "menge": 2, "einheit": "Stück", "detail": null},
+      {"zutat": "Brot", "menge": 0.6, "einheit": "Laib", "detail": null},
+      {"zutat": "Cocktailtomaten", "menge": 100, "einheit": "Gramm", "detail": null},
+      {"zutat": "Dosenobst", "menge": 0.5, "einheit": "Stück", "detail": null},
+      {"zutat": "Salatgurken", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Haferflocken", "menge": 300, "einheit": "Gramm", "detail": "Blütenzart"},
+      {"zutat": "Hafermilch", "menge": 1000, "einheit": "mL", "detail": "Barista"},
+      {"zutat": "Honig", "menge": 45, "einheit": "Gramm", "detail": null},
+      {"zutat": "Kakao", "menge": 30, "einheit": "Gramm", "detail": null},
+      {"zutat": "Käse", "menge": 450, "einheit": "Gramm", "detail": null},
+      {"zutat": "Krümelkaffee", "menge": 150, "einheit": "Gramm", "detail": null},
+      {"zutat": "Magarine", "menge": 0.25, "einheit": "Stück", "detail": "in Plastikschale"},
+      {"zutat": "Marmelade", "menge": 0.1, "einheit": "Stück", "detail": null},
+      {"zutat": "Milch", "menge": 100, "einheit": "mL", "detail": null},
+      {"zutat": "Schokocreme", "menge": 0.25, "einheit": "Stück", "detail": null},
+      {"zutat": "Tee", "menge": 5, "einheit": "Stück", "detail": null},
+      {"zutat": "vegane Brotaufstriche", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Zimt", "menge": 5, "einheit": "Gramm", "detail": null},
+      {"zutat": "Zucker", "menge": 5, "einheit": "Gramm", "detail": null}
+    ],
+    "zubereitung": [
+        "Äpfel, Bananen & Salatgurken klein schnibbeln",
+        "Wasser kochen für Tee und Kaffee",
+        "Porridge zubereiten: ca. 1.5 Liter Hafermilch erhitzen, Haferflocken einrühren",
+        "Alles zusammen anrichten & essen"
+
+    ]
+  },
+
+  {
+    "rezeptname": "Mittagessen",
+    "portionen": 10,
+    "zutaten": [
+      {"zutat": "Apfel", "menge": 3, "einheit": "Stück", "detail": null},
+      {"zutat": "Bananen", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Brot", "menge": 0.6, "einheit": "Laib", "detail": null},
+      {"zutat": "Fleischtomaten", "menge": 3, "einheit": "Stück", "detail": null},
+      {"zutat": "gesalzene Erdnüsse", "menge": 100, "einheit": "Gramm", "detail": null},
+      {"zutat": "Gummibären", "menge": 100, "einheit": "Gramm", "detail": null},
+      {"zutat": "Ingwer", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "Karotten", "menge": 3, "einheit": "Stück", "detail": null},
+      {"zutat": "Käse", "menge": 450, "einheit": "Gramm", "detail": null},
+      {"zutat": "vegane-Gummibären", "menge": 100, "einheit": "Gramm", "detail": null},
+      {"zutat": "Magarine", "menge": 0.25, "einheit": "Stück", "detail": "in Plastikschale"},
+      {"zutat": "Nussmischungen", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "Paprika", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Radieschen", "menge": 0.25, "einheit": "Bund", "detail": null},
+      {"zutat": "Salatgurken", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Salzbrezeln", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "Tuc-Kekse", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "vegane Brotaufstriche", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "veganer Zwiebelschmelz", "menge": 0.5, "einheit": "Stück", "detail": null},
+      {"zutat": "Wassermelone", "menge": 1650, "einheit": "Gramm", "detail": null},
+      {"zutat": "Zitronen", "menge": 1, "einheit": "Stück", "detail": null}
+    ],
+    "zubereitung": [
+        "Melone aufschneiden",
+	    "Prüfen, ob noch Reste vom Frühstück ausgelegt werden können, alles anrichten"
+    ]
+  },
+
+ {
+    "rezeptname": "Grillen",
+    "portionen": 10,
+    "zutaten": [
+      {"zutat": "Brot", "menge": 1, "einheit": "Laib", "detail": null},
+      {"zutat": "Couscous", "menge": 600, "einheit": "Gramm", "detail": null},
+      {"zutat": "Fleischtomaten", "menge": 7, "einheit": "Stück", "detail": null},
+      {"zutat": "Grillkäse", "menge": 20, "einheit": "Stück", "detail": null},
+      {"zutat": "Ketchup", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Knoblauchsauße", "menge": 2, "einheit": "Stück", "detail": null},
+      {"zutat": "Knoblauchzehen", "menge": 3, "einheit": "Stück", "detail": null},
+      {"zutat": "Olivenöl", "menge": 180, "einheit": "Gramm", "detail": null},
+      {"zutat": "frische Petersilie", "menge": 2, "einheit": "Bund", "detail": null},
+      {"zutat": "Pfeffer", "menge":5, "einheit": "Gramm", "detail": null},
+      {"zutat": "Salatgurken", "menge": 2, "einheit": "Stück", "detail": null},
+      {"zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null},
+      {"zutat": "Schafskäse", "menge": 600, "einheit": "Gramm", "detail": null},
+      {"zutat": "schwarze Oliven", "menge": 180, "einheit": "Gramm", "detail": "Abtropfmenge"},
+      {"zutat": "Senf", "menge": 75, "einheit": "Gramm", "detail": null},
+      {"zutat": "Wasser", "menge": 1000, "einheit": "mL", "detail": null},
+      {"zutat": "Zitronen", "menge": 2, "einheit": "Stück", "detail": null}
+    ],
+    "zubereitung": [
+        "Öl, Zitronensaft, Salz & Pfeffer und kochendes Wasser mischen, Couscous hinzufügen, quellen lassen",
+        "Ggf. Wasser nachgießen",
+        "Knoblauch zum Couscous pressen",
+        "Salatgurken, Tomaten, Petersilie und Schafskäse kleinschnibbeln",
+        "Wenn der Couscous weich ist, kleingeschnittene Zutaten hinzufügen, Oliven zugeben",
+        "Abschmecken mit Gewürzen"
+    ]
+  },
+
+{
+  "rezeptname": "Zucchinischlonz",
+  "portionen": 10,
+  "zutaten": [
+    { "zutat": "Reis", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zucchini", "menge": 5, "einheit": "Stück", "detail": "mittelgroßes" },
+    { "zutat": "Zwiebel", "menge": 5, "einheit": "Stück", "detail": null },
+    { "zutat": "Bratöl", "menge": 75, "einheit": "Gramm", "detail": null },
+    { "zutat": "passierte Tomaten", "menge": 2000, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 60, "einheit": "Gramm", "detail": null },
+    { "zutat": "italienische Kräuter", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Streukäse", "menge": 750, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 50, "einheit": "Gramm", "detail": null },
+    { "zutat": "Pfeffer", "menge": 30, "einheit": "Gramm", "detail": null }
+  ],
+    "zubereitung": [
+        "Den Reis nach Packungsanweisung garen. Den Knoblauch und die Zwiebel fein würfeln und im heißen Öl glasig anschwitzen.",
+        "Die Zucchini putzen, waschen und klein schneiden und ca. 5 Min. mitbraten.",
+        "Die passierten Tomaten, die Gewürze und ggf. etwas Instant-Gemüsebrühe zufügen und alles ca. 10 Min. köcheln lassen.",
+        "Zum Schluss den gegarten Reis zufügen, unterrühren und ggf. noch einmal nachwürzen.",
+        "Streukäse mitservieren für jene die ihn möchten"
+
+    ]
+},
+
+{
+  "rezeptname": "Gemüseeintopf",
+  "portionen": 10,
+  "zutaten": [
+    { "zutat": "Kartoffel", "menge": 2250, "einheit": "Gramm", "detail": null },
+    { "zutat": "Suppengrün", "menge": 3, "einheit": "Bund", "detail": "(mittelgroß)" },
+    { "zutat": "Zwiebel", "menge": 3, "einheit": "Stück", "detail": null },
+    { "zutat": "Knoblauchzehen", "menge": 3, "einheit": "Stück", "detail": null },
+    { "zutat": "Kohlrabi", "menge": 3, "einheit": "Stück", "detail": null },
+    { "zutat": "Räuchertofu", "menge": 700, "einheit": "Gramm", "detail": null },
+    { "zutat": "Petersilie", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 60, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 50, "einheit": "Gramm", "detail": null },
+    { "zutat": "Pfeffer", "menge": 30, "einheit": "Gramm", "detail": null }
+  ],
+    "zubereitung": [
+        "Kartoffeln sowie Karotten und Sellerie aus dem Suppengrün schälen und in mundgerechte Stücke schneiden.",
+        "Lauch aus dem Suppengrün in feine Ringe schneiden und gründlich waschen. In einem Sieb abtropfen lassen.",
+        "Zwiebeln, Knoblauch und Kohlrabi schälen. Zwiebeln und Knoblauch in feine Würfel schneiden, Knoblauch pressen. Währenddessen Bohnen, Blumenkohl und Erbsen antauen lassen.",
+        "Nun Sonnenblumenöl in einem Topf erhitzen und das vorgeschnittene Gemüse darin anbraten. Währenddessen mit Salz und Pfeffer würzen.",
+        "Gemüsebrühe und grüne Bohnen dazugeben und aufkochen lassen. Anschließend 10-15 Minuten bei mittlerer Hitze köcheln lassen, bis das Gemüse noch leicht bissfest ist.",
+        "Nun das restliche angetaute Gemüse in den Gemüseeintopf mit Kartoffeln geben. Diesen erneut aufkochen und noch ca. 5 Minuten ziehen lassen. Zuletzt nach Belieben abschmecken und mit gehackter Petersilie aus dem Suppengrün garnieren."
+
+    ]
+},
+
+{
+  "rezeptname": "OnePotPasta",
+  "portionen": 10,
+  "zutaten": [
+    { "zutat": "Champingons", "menge": 1250, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Hafer Cuisine (notfalls Sahne)", "menge": 500, "einheit": "mL", "detail": null },
+    { "zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": null },
+    { "zutat": "Olivenöl", "menge": 150, "einheit": "Gramm", "detail": null },
+    { "zutat": "Paprikapulver", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Parmesan", "menge": 200, "einheit": "Gramm", "detail": null },
+    { "zutat": "Penne (Nudeln)", "menge": 900, "einheit": "Gramm", "detail": null },
+    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Rosmarin", "menge": 1, "einheit": "Bund", "detail": null },
+    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Thymian", "menge": 1, "einheit": "Bund", "detail": null },
+    { "zutat": "Tomatenmark", "menge": 75, "einheit": "Gramm", "detail": null },
+    { "zutat": "Wasser", "menge": 2250, "einheit": "mL", "detail": null },
+    { "zutat": "Zwiebel", "menge": 5, "einheit": "Stück", "detail": null }
+  ],
+    "zubereitung": [
+        "Champignons putzen, grob klein schneiden und im Öl anbraten",
+        "Zwiebeln würfeln und mit in die Pfanne geben.",
+        "Knoblauchzehen ebenfalls würfeln und dazugeben",
+        "Mit Salz, Pfeffer und Paprika würzen",
+        "Tomatenmark mit anschwitzen und dann mit Wasser und Sahne ablöschen",
+        "Parmesan klein würfeln oder reiben und ebenfalls zur Soße geben.",
+        "Nudeln in den Topf geben und Gemüsebrühepulver sowie Rosmarin und Thymian dazugeben",
+        "Den Deckel darauf legen und alles bei mittlerer Hitze ca. 15 bis 20 Minuten (kommt auf die Pasta an) köcheln lassen",
+        "Zwischendurch immer wieder umrühren, damit die Nudeln nicht aneinander bzw. am Boden verkleben.",
+        "Wenn die Nudeln al dente sind, sollte die Soße schön cremig sein. Bei Bedarf nochmal nachwürzen (besser jetzt, als vorher zu viel dran zu geben)"
+    ]
+},
+
+{
+  "rezeptname": "KartoffelBohnenEintopf",
+  "portionen": 10,
+  "zutaten": [
+    { "zutat": "Brot", "menge": 1, "einheit": "Laib", "detail": null },
+    { "zutat": "Chili", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kartoffel", "menge": 2000, "einheit": "Gramm", "detail": "festkochend" },
+    { "zutat": "Kidneybohnen", "menge": 600, "einheit": "Gramm", "detail": "Abtropfgewicht" },
+    { "zutat": "passierte Tomaten", "menge": 1000, "einheit": "Gramm", "detail": null },
+    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Schmand", "menge": 400, "einheit": "Gramm", "detail": null },
+    { "zutat": "Tomatenmark", "menge": 45, "einheit": "Gramm", "detail": null },
+    { "zutat": "Wasser", "menge": 500, "einheit": "mL", "detail": null },
+    { "zutat": "weiße Bohnen", "menge": 840, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zwiebel", "menge": 4, "einheit": "Stück", "detail": null }
+  ],
+    "zubereitung": [
+        "Zwiebeln fein würfeln, Kartoffeln schälen und klein würfeln, Bohnen abgießen",
+        "Zwiebeln anschwitzen, Kartoffeln auch kurz mit anschwitzen, dabei gern auch schon Tomatenmark mit anrösten",
+        "Jetzt kippt man die passierten Tomaten rein und füllt das Ganze mit Gemüsebrühe auf, bis die Kartoffeln alle bedeckt sind",
+        "Deckel drauf, aufkochen lassen. Wenn die Kartoffeln fast gar sind können die Bohnen rein, dass die heiß werden bis die Kartoffeln gar sind. ",
+        "Ganz zum Schluss, wenn der Topf schon vom Feuer runter ist, noch etwas Schmand rein",
+        "Würzen"
+    ]
+},
+
+{
+  "rezeptname": "ChiliSinCarne",
+  "zutaten": [
+    { "zutat": "Zwiebel", "menge": 6, "einheit": "Stück", "detail": null },
+    { "zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": null },
+    { "zutat": "rote Linsen", "menge": 750, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kidneybohnen", "menge": 750, "einheit": "Gramm", "detail": "Abtropfgewicht" },
+    { "zutat": "Mais", "menge": 750, "einheit": "Gramm", "detail": "Abtropfgewicht" },
+    { "zutat": "passierte Tomaten", "menge": 800, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kreuzkümmel", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Cayennepfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kakaopulver", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 75, "einheit": "Gramm", "detail": null },
+    { "zutat": "Wasser", "menge": 1000, "einheit": "mL", "detail": null },
+    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Sonnenblumenöl", "menge": 30, "einheit": "Gramm", "detail": null },
+    { "zutat": "Brot", "menge": 0.25, "einheit": "Laib", "detail": null }
+  ],
+    "zubereitung": [
+        "Zwiebeln klein würfeln & anbraten",
+        "Knoblauch schälen, klein würfeln, hinzugeben und mit anbraten",
+        "Linsen kurz mit anbraten",
+        "Jeweils 2 TL Kreuzkümmel und Cayennepfeffer hinzugeben",
+        "Alles mit ca. 1 L Gemüsebrühe ablöschen",
+        "Gut umrühren, damit sich das Gemüsebrühen-Pulver löst",
+        "Passierte Tomate hinzufügen",
+        "Kakao zum Süßen hinzufügen",
+        "Köcheln lassen bis die Linsen weich sind. Bei Bedarf mehr Wasser hinzufügen",
+        "Mais und Bohnen abspülen und hinzugeben",
+        "Mit Gewürzen abschmecken"
+    ]
+},
+
+{
+  "rezeptname": "LinsenRoteBeteSalatUNdMelonenFetaSalat",
+  "portionen": 10,
+  "zutaten": [
+    { "zutat": "rote Linsen", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kreuzkümmel", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Curry", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 105, "einheit": "Gramm", "detail": null },
+    { "zutat": "Frühlingszwiebeln", "menge": 10, "einheit": "Stück", "detail": null },
+    { "zutat": "Petersilie", "menge": 1.5, "einheit": "Bund", "detail": null },
+    { "zutat": "gekochte rote Bete", "menge": 1000, "einheit": "Gramm", "detail": null },
+    { "zutat": "Senf", "menge": 37.5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Apfelessig", "menge": 112.5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Olivenöl", "menge": 150, "einheit": "Gramm", "detail": null },
+    { "zutat": "Honig", "menge": 37.5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Wassermelone", "menge": 1250, "einheit": "Gramm", "detail": null },
+    { "zutat": "Fleischtomaten", "menge": 5, "einheit": "Stück", "detail": null },
+    { "zutat": "Salatgurken", "menge": 2, "einheit": "Stück", "detail": null },
+    { "zutat": "Zwiebel", "menge": 2, "einheit": "Stück", "detail": null },
+    { "zutat": "Feta-Käse", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zitronen", "menge": 2, "einheit": "Stück", "detail": null }
+  ],
+   "zubereitung": [
+        "Zuerst Olivenöl in einem Topf erhitzen und die Linsen darin mit Kreuzkümmel und Curry etwas andünsten. Mit der Brühe ablöschen und ca. 8 bis 10 Minuten köcheln lassen. Danach abtropfen sowie abkühlen lassen.",
+        "Abschmecken mit Gewürzen",
+        "Ein Dressing aus Senf, Honig, Essig, Salz und Pfeffer mischen und das Öl erst nach und nach zu dem Dressing geben.",
+        "Jetzt erst die Linsen mit Rote Bete und Frühlingszwiebeln vermengen. Das Dressing und die Petersilie untermengen und mit Pfeffer und Salz abschmecken.",
+        "Die Melone, die Tomaten und den Feta-Käse in kleine Stücke schneiden. Die Zwiebel und die Gurke in feine Scheiben schneiden.",
+        "Die Zutaten vermengen, mit Salz und Pfeffer würzen, Öl und Essig unterrühren und abschmecken."
+    ]
+},
+
+{
+  "rezeptname": "KartoffelLauchSuppe",
+  "zutaten": [
+    { "zutat": "Brot", "menge": 1, "einheit": "Laib", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 37.5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kartoffel", "menge": 2000, "einheit": "Gramm", "detail": null },
+    { "zutat": "Käse", "menge": 200, "einheit": "Gramm", "detail": null },
+    { "zutat": "Lauch", "menge": 5, "einheit": "Stück", "detail": null },
+    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Schmelzkäse", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Sonnenblumenöl", "menge": 75, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zwiebel", "menge": 2.5, "einheit": "Stück", "detail": null }
+  ],
+  "zubereitung": [
+    "Zwiebeln & Lauch kleinschneiden und anbraten",
+    "Ablöschen mit Gemüsebrühe, köcheln lassen",
+    "Kartoffeln zugeben und durchkochen lassen",
+    "Schmelzkäse & Käse hinzugeben",
+    "Würzen",
+    "Servieren mit Brot"
+
+  ]
+},
+
+
+{
+  "rezeptname": "Linsen-Curry mit Reis",
+  "zutaten": [
+    { "zutat": "rote Linsen", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Wasser", "menge": 1000, "einheit": "mL", "detail": null },
+    { "zutat": "Gemüsebrühe", "menge": 75, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zwiebel", "menge": 4, "einheit": "Stück", "detail": null },
+    { "zutat": "Karotte", "menge": 7, "einheit": "Stück", "detail": null },
+    { "zutat": "Paprika", "menge": 3, "einheit": "Stück", "detail": null },
+    { "zutat": "gehackte Tomate", "menge": 800, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kokosmilch", "menge": 500, "einheit": "mL", "detail": null },
+    { "zutat": "Chili", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Curry", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Salz", "menge": 1, "einheit": "Gramm", "detail": null },
+    { "zutat": "Kreuzkümmel", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Olivenöl", "menge": 150, "einheit": "Gramm", "detail": null },
+    { "zutat": "Zucker", "menge": 5, "einheit": "Gramm", "detail": null },
+    { "zutat": "Petersilie", "menge": 1, "einheit": "Bund", "detail": null },
+    { "zutat": "Reis", "menge": 500, "einheit": "Gramm", "detail": null },
+    { "zutat": "Tomatenmark", "menge": 150, "einheit": "Gramm", "detail": null }
+  ],
+  "zubereitung": [
+    "Zwiebel, Chilischoten und Paprikaschoten klein schneiden, die Karotten am besten in schmale Streifen.",
+    "Gemüse in Öl anbraten, Tomatenmark hinzufügen. Gehackte Tomate hinzufügen",
+    "Linsen und Reis hinzufügen, köcheln lassen, bis alles durch ist",
+    "Aufgießen mit Kokosmilch",
+    "Würzen"
+  ]
+},
+
+{
+  "rezeptname": "Shakshuka",
+  "zutaten": [
+    {"zutat": "Zwiebel", "menge": 3, "einheit": "Stück", "detail": ""},
+    {"zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": ""},
+    {"zutat": "Kartoffel", "menge": 400, "einheit": "Gramm", "detail": ""},
+    {"zutat": "gehackte Tomaten", "menge": 1200, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Petersilie", "menge": 30, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Olivenöl", "menge": 120, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Zucker", "menge": 45, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Salz", "menge": 30, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Paprika edelsüß", "menge": 20, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Eier", "menge": 10, "einheit": "Stück", "detail": ""}
+    ],
+  "zubereitung": [
+    "Öl in einer grossen Bratpfanne erwärmen. Zwiebel, Knoblauch, Kartoffeln und Zucker kleinschneiden und dazugeben. Ca. 5 Minuten dünsten.",
+    "Tomaten dazugeben und zugedeckt bei mittlerer Hitze ca. 25 Minuten einköcheln lassen, bis fast keine Flüssigkeit mehr vorhanden ist.",
+    "Eventuell am Schluss der Garzeit Pfanne abdecken. Mit Salz und Paprika abschmecken.",
+    "gekochte Eier mit auftischen" 
+  ]
+}
+]
