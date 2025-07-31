@@ -22,6 +22,7 @@
       {"zutat": "Tee", "menge": 5, "einheit": "Stück", "detail": null},
       {"zutat": "vegane Brotaufstriche", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "Zimt", "menge": 5, "einheit": "Gramm", "detail": null},
+      {"zutat": "hartgekochte Eier", "menge": 5, "einheit": "Stück", "detail": "wenn möglich Freiland- oder bessere Haltun"},
       {"zutat": "Zucker", "menge": 5, "einheit": "Gramm", "detail": null}
     ],
     "zubereitung": [
@@ -41,27 +42,28 @@
       {"zutat": "Bananen", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "Brot", "menge": 0.6, "einheit": "Laib", "detail": null},
       {"zutat": "Fleischtomaten", "menge": 3, "einheit": "Stück", "detail": null},
-      {"zutat": "gesalzene Erdnüsse", "menge": 100, "einheit": "Gramm", "detail": null},
-      {"zutat": "Gummibären", "menge": 100, "einheit": "Gramm", "detail": null},
+      {"zutat": "gesalzene Erdnüsse", "menge": 75, "einheit": "Gramm", "detail": null},
       {"zutat": "Ingwer", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "Trockenmango", "menge": 50, "einheit": "Gramm", "detail": null},
       {"zutat": "Karotten", "menge": 3, "einheit": "Stück", "detail": null},
       {"zutat": "Käse", "menge": 450, "einheit": "Gramm", "detail": null},
       {"zutat": "vegane-Gummibären", "menge": 100, "einheit": "Gramm", "detail": null},
       {"zutat": "Magarine", "menge": 0.25, "einheit": "Stück", "detail": "in Plastikschale"},
-      {"zutat": "Nussmischungen", "menge": 50, "einheit": "Gramm", "detail": null},
-      {"zutat": "Paprika", "menge": 1, "einheit": "Stück", "detail": null},
+      {"zutat": "Nussmischungen", "menge": 5750, "einheit": "Gramm", "detail": null},
       {"zutat": "Radieschen", "menge": 0.25, "einheit": "Bund", "detail": null},
       {"zutat": "Salatgurken", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "Salzbrezeln", "menge": 50, "einheit": "Gramm", "detail": null},
       {"zutat": "Tuc-Kekse", "menge": 50, "einheit": "Gramm", "detail": null},
+      {"zutat": "Dattel", "menge": 50, "einheit": "Gramm", "detail": null},
       {"zutat": "vegane Brotaufstriche", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "veganer Zwiebelschmelz", "menge": 0.5, "einheit": "Stück", "detail": null},
       {"zutat": "Wassermelone", "menge": 1650, "einheit": "Gramm", "detail": null},
       {"zutat": "Zitronen", "menge": 1, "einheit": "Stück", "detail": null}
     ],
     "zubereitung": [
-        "Melone aufschneiden",
-	    "Prüfen, ob noch Reste vom Frühstück ausgelegt werden können, alles anrichten"
+      "Melone aufschneiden",
+	    "Prüfen, ob noch Reste vom Frühstück ausgelegt werden können", 
+      "alles anrichten"
     ]
   },
 
@@ -99,7 +101,7 @@
 
 {
   "rezeptname": "Zucchinischlonz",
-  "portionen": 10,
+  "portionen": 7,
   "zutaten": [
     { "zutat": "Reis", "menge": 500, "einheit": "Gramm", "detail": null },
     { "zutat": "Zucchini", "menge": 5, "einheit": "Stück", "detail": "mittelgroßes" },
@@ -118,13 +120,12 @@
         "Die passierten Tomaten, die Gewürze und ggf. etwas Instant-Gemüsebrühe zufügen und alles ca. 10 Min. köcheln lassen.",
         "Zum Schluss den gegarten Reis zufügen, unterrühren und ggf. noch einmal nachwürzen.",
         "Streukäse mitservieren für jene die ihn möchten"
-
     ]
 },
 
 {
   "rezeptname": "Gemüseeintopf",
-  "portionen": 10,
+  "portionen": 7,
   "zutaten": [
     { "zutat": "Kartoffel", "menge": 2250, "einheit": "Gramm", "detail": null },
     { "zutat": "Suppengrün", "menge": 3, "einheit": "Bund", "detail": "(mittelgroß)" },
@@ -212,6 +213,7 @@
 
 {
   "rezeptname": "ChiliSinCarne",
+  "portionen": 10,
   "zutaten": [
     { "zutat": "Zwiebel", "menge": 6, "einheit": "Stück", "detail": null },
     { "zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": null },
@@ -280,6 +282,7 @@
 
 {
   "rezeptname": "KartoffelLauchSuppe",
+  "portionen": 10,
   "zutaten": [
     { "zutat": "Brot", "menge": 1, "einheit": "Laib", "detail": null },
     { "zutat": "Gemüsebrühe", "menge": 37.5, "einheit": "Gramm", "detail": null },
@@ -306,6 +309,7 @@
 
 {
   "rezeptname": "Linsen-Curry mit Reis",
+  "portionen": 10,
   "zutaten": [
     { "zutat": "rote Linsen", "menge": 500, "einheit": "Gramm", "detail": null },
     { "zutat": "Wasser", "menge": 1000, "einheit": "mL", "detail": null },
@@ -336,6 +340,7 @@
 
 {
   "rezeptname": "Shakshuka",
+  "portionen": 5,
   "zutaten": [
     {"zutat": "Zwiebel", "menge": 3, "einheit": "Stück", "detail": ""},
     {"zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": ""},
