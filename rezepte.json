@@ -247,30 +247,19 @@
 },
 
 {
-  "rezeptname": "LinsenRoteBeteSalatUNdMelonenFetaSalat",
+  "rezeptname": "MelonenFetaSalat",
   "portionen": 10,
   "zutaten": [
-    { "zutat": "rote Linsen", "menge": 500, "einheit": "Gramm", "detail": null },
-    { "zutat": "Kreuzkümmel", "menge": 5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Curry", "menge": 5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Gemüsebrühe", "menge": 105, "einheit": "Gramm", "detail": null },
-    { "zutat": "Frühlingszwiebeln", "menge": 10, "einheit": "Stück", "detail": null },
-    { "zutat": "Petersilie", "menge": 1.5, "einheit": "Bund", "detail": null },
-    { "zutat": "gekochte rote Bete", "menge": 1000, "einheit": "Gramm", "detail": null },
-    { "zutat": "Senf", "menge": 37.5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Apfelessig", "menge": 112.5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Olivenöl", "menge": 150, "einheit": "Gramm", "detail": null },
-    { "zutat": "Honig", "menge": 37.5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Salz", "menge": 5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Pfeffer", "menge": 5, "einheit": "Gramm", "detail": null },
-    { "zutat": "Wassermelone", "menge": 1250, "einheit": "Gramm", "detail": null },
-    { "zutat": "Fleischtomaten", "menge": 5, "einheit": "Stück", "detail": null },
-    { "zutat": "Salatgurken", "menge": 2, "einheit": "Stück", "detail": null },
-    { "zutat": "Zwiebel", "menge": 2, "einheit": "Stück", "detail": null },
-    { "zutat": "Feta-Käse", "menge": 500, "einheit": "Gramm", "detail": null },
-    { "zutat": "Zitronen", "menge": 2, "einheit": "Stück", "detail": null }
+      { "zutat": "Wassermelone", "menge": 1250, "einheit": "Gramm", "detail": null },
+      { "zutat": "Cocktailtomaten", "menge": 500, "einheit": "Gramm", "detail": null},
+      { "zutat": "Gurken", "menge": 2, "einheit": "Stück", "detail": null },
+      { "zutat": "Zwiebel", "menge": 250, "einheit": "Gramm", "detail": null},
+      { "zutat": "Feta-Käse", "menge": 500, "einheit": "Gramm", "detail": null },
+      { "zutat": "Balsamico", "menge": 15, "einheit": "Esslöffel", "detail": null },
+      { "zutat": "Zitronen", "menge": 2, "einheit": "Gramm", "detail": null },
+      { "zutat": "Olivenöl", "menge": 10, "einheit": "Esslöffel", "detail": null }
   ],
-   "zubereitung": [
+  "zubereitung": [
         "Zuerst Olivenöl in einem Topf erhitzen und die Linsen darin mit Kreuzkümmel und Curry etwas andünsten. Mit der Brühe ablöschen und ca. 8 bis 10 Minuten köcheln lassen. Danach abtropfen sowie abkühlen lassen.",
         "Abschmecken mit Gewürzen",
         "Ein Dressing aus Senf, Honig, Essig, Salz und Pfeffer mischen und das Öl erst nach und nach zu dem Dressing geben.",
