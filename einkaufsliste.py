@@ -9,12 +9,10 @@ with open("rezepte.json", "r", encoding="utf-8") as f:
     rezepte = json.load(f)
 
 # Terminal-Eingaben
+# Terminal-Eingaben
 personen = int(input("Wie viele Personen fahren auf das Con? "))
-tage = int(input("Wie viele Tage geht das Con? "))
-
-# Automatische Vorauswahl von Frühstück und Mittagessen
-anzahl_fruehstueck = max(0, tage - 1)
-anzahl_mittagessen = max(0, tage - 2)
+anzahl_fruehstueck = int(input("Wie viele Frühstücke sollen geplant werden? "))
+anzahl_mittagessen = int(input("Wie viele Mittagessen sollen geplant werden? "))
 
 # Hauptgerichte filtern
 hauptgerichte = [r for r in rezepte if r["rezeptname"].strip().lower() not in ["frühstück", "mittagessen"]]
