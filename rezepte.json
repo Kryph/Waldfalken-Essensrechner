@@ -340,7 +340,7 @@
 
 {
   "rezeptname": "Shakshuka",
-  "portionen": 5,
+  "portionen": 3,
   "zutaten": [
     {"zutat": "Zwiebel", "menge": 3, "einheit": "Stück", "detail": ""},
     {"zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": ""},
@@ -351,6 +351,7 @@
     {"zutat": "Zucker", "menge": 45, "einheit": "Gramm", "detail": ""},
     {"zutat": "Salz", "menge": 30, "einheit": "Gramm", "detail": ""},
     {"zutat": "Paprika edelsüß", "menge": 20, "einheit": "Gramm", "detail": ""},
+    {"zutat": "Paprika", "menge": 2, "einheit": "Stück", "detail": ""},
     {"zutat": "Eier", "menge": 10, "einheit": "Stück", "detail": ""}
     ],
   "zubereitung": [
