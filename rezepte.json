@@ -22,7 +22,7 @@
       {"zutat": "Tee", "menge": 5, "einheit": "Stück", "detail": null},
       {"zutat": "vegane Brotaufstriche", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "Zimt", "menge": 5, "einheit": "Gramm", "detail": null},
-      {"zutat": "hartgekochte Eier", "menge": 5, "einheit": "Stück", "detail": "wenn möglich Freiland- oder bessere Haltun"},
+      {"zutat": "Eier", "menge": 5, "einheit": "Stück", "detail": "hartgekocht"},
       {"zutat": "Zucker", "menge": 5, "einheit": "Gramm", "detail": null}
     ],
     "zubereitung": [
@@ -49,7 +49,7 @@
       {"zutat": "Käse", "menge": 450, "einheit": "Gramm", "detail": null},
       {"zutat": "vegane-Gummibären", "menge": 100, "einheit": "Gramm", "detail": null},
       {"zutat": "Magarine", "menge": 0.25, "einheit": "Stück", "detail": "in Plastikschale"},
-      {"zutat": "Nussmischungen", "menge": 5750, "einheit": "Gramm", "detail": null},
+      {"zutat": "Nussmischungen", "menge": 50, "einheit": "Gramm", "detail": null},
       {"zutat": "Radieschen", "menge": 0.25, "einheit": "Bund", "detail": null},
       {"zutat": "Salatgurken", "menge": 1, "einheit": "Stück", "detail": null},
       {"zutat": "Salzbrezeln", "menge": 50, "einheit": "Gramm", "detail": null},
@@ -253,11 +253,11 @@
       { "zutat": "Wassermelone", "menge": 1250, "einheit": "Gramm", "detail": null },
       { "zutat": "Cocktailtomaten", "menge": 500, "einheit": "Gramm", "detail": null},
       { "zutat": "Gurken", "menge": 2, "einheit": "Stück", "detail": null },
-      { "zutat": "Zwiebel", "menge": 250, "einheit": "Gramm", "detail": null},
+      { "zutat": "Zwiebel", "menge": 2.5, "einheit": "Stück", "detail": null},
       { "zutat": "Feta-Käse", "menge": 500, "einheit": "Gramm", "detail": null },
       { "zutat": "Balsamico", "menge": 15, "einheit": "Esslöffel", "detail": null },
-      { "zutat": "Zitronen", "menge": 2, "einheit": "Gramm", "detail": null },
-      { "zutat": "Olivenöl", "menge": 10, "einheit": "Esslöffel", "detail": null }
+      { "zutat": "Zitronen", "menge": 2, "einheit": "Stück", "detail": null },
+      { "zutat": "Olivenöl", "menge": 150, "einheit": "Gramm", "detail": null }
   ],
   "zubereitung": [
         "Zuerst Olivenöl in einem Topf erhitzen und die Linsen darin mit Kreuzkümmel und Curry etwas andünsten. Mit der Brühe ablöschen und ca. 8 bis 10 Minuten köcheln lassen. Danach abtropfen sowie abkühlen lassen.",
@@ -329,7 +329,7 @@
 
 {
   "rezeptname": "Shakshuka",
-  "portionen": 3,
+  "portionen": 5,
   "zutaten": [
     {"zutat": "Zwiebel", "menge": 3, "einheit": "Stück", "detail": ""},
     {"zutat": "Knoblauchzehen", "menge": 5, "einheit": "Stück", "detail": ""},
@@ -341,7 +341,7 @@
     {"zutat": "Salz", "menge": 30, "einheit": "Gramm", "detail": ""},
     {"zutat": "Paprika edelsüß", "menge": 20, "einheit": "Gramm", "detail": ""},
     {"zutat": "Paprika", "menge": 2, "einheit": "Stück", "detail": ""},
-    {"zutat": "Eier", "menge": 10, "einheit": "Stück", "detail": ""}
+    {"zutat": "Eier", "menge": 10, "einheit": "Stück", "detail": "hartgekocht"}
     ],
   "zubereitung": [
     "Öl in einer grossen Bratpfanne erwärmen. Zwiebel, Knoblauch, Kartoffeln und Zucker kleinschneiden und dazugeben. Ca. 5 Minuten dünsten.",
